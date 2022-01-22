@@ -1,3 +1,5 @@
+api de referecia : https://viacep.com.br/ws/01001000/json/
+
 Como utilizar no bot.
 Apos a requisição salve o retorno e no proximo bloco crie na ação de entrada a execução do script conforme exemplo :
 
