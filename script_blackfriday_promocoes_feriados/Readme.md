@@ -1,3 +1,5 @@
+Casos de uso: Esse script foi elaborado para filtras data especificas onde o bot pode mostrar um conteudo promocional, o que não ira ter atendimento no bot ou qualquer tipo de aviso como feriados, festas... No caso abaixo utilizei para conteudo promocial.
+
 <br>1° Passo colocar o bloco direto na navegação do bot apos o bloco de inicio, para que ele sempre valide quando o usuario chamar o bot.<br>
 
 <br>2° Criar o script<br>
