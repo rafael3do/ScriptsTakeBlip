@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/18338341/150648440-9951bd72-3fed-4244-aeb1-e01814b9e9ad.png)
+![image](https://user-images.githubusercontent.com/18338341/150648450-f6604184-079c-4e66-bf9b-ed6ca7403eb0.png)
 
 Link da plataforma Take Blip : https://portal.blip.ai/ 
 # ScriptsTakeBlip
