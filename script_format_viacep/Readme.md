@@ -1,4 +1,4 @@
-api de referecia : https://viacep.com.br/ws/01001000/json/
+Api de referecia : https://viacep.com.br/ws/01001000/json/
 
 <br>Como utilizar no bot.<br>
 1°-Apos a requisição salve o retorno e no proximo bloco crie na ação de entrada a execução do script conforme exemplo :
