@@ -8,4 +8,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 3° Script: Teste de dois fluxos em um mesmo bot(teste ab) : https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_teste_fluxo_a_b
 
+4° Script: Messagem personalizada de acordo com o horario: https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_cumprimento_personalizado
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
