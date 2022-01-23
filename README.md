@@ -4,8 +4,8 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 # ScriptsTakeBlip
 1° Script: Formatando retorno da api do viacep : https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_format_viacep
 
-2° Script: Conteudo promocinal em datas como black friday : https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_blackfriday_promocoes_feriados
+2° Script: Conteúdo promocinal em datas como black friday : https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_blackfriday_promocoes_feriados
 
 3° Script: Teste de dois fluxos em um mesmo bot(teste ab) : https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_teste_fluxo_a_b
 
-## **Esse github/repositorio não tem nenhum vinculo com a Take Blip e todo conteudo disponibilizado foi feito de forma livre e para uso de todos.**
+## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
