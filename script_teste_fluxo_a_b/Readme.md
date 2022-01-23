@@ -7,6 +7,7 @@
 <br>2° Passo : Criar dois blocos para seguir o fluxo a e o fluxo b e colocar no bloco criado anteiormente as condições de saida como o exemplo abaixo :<br>
 ![image](https://user-images.githubusercontent.com/18338341/150678355-40bc083d-a5fe-48e4-be35-532b86e8f936.png)
 
+![image](https://user-images.githubusercontent.com/18338341/150678381-6e27753f-6627-4e91-be83-1ee712a8980d.png)
 
 <br>Teste do fluxo<br>
 
