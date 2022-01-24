@@ -10,6 +10,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 4° Script: Messagem personalizada de acordo com o horario: https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_cumprimento_personalizado
 
-5° Script: Carrinho de comprar simples: https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_carrinho_de_compras
+5° Script: Carrinho de compras simples: https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_carrinho_de_compras
 
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
