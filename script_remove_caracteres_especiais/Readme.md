@@ -2,6 +2,7 @@
 
 
 <br>1°Passo: Apos o bloco de entrada criar um bloco para receber o input do usuario e apos isso vamos amazenar essa informação em uma variavel:<br>
+![image](https://user-images.githubusercontent.com/18338341/151677251-2f94d13a-b76a-40b3-b24f-027e9f9f63ce.png)
 
 
 Testes realizados:
@@ -12,8 +13,8 @@ Testes realizados:
 
 <code>
       .replace(/[.]+/g, "")  
-      
+      .replace(/[,]+/g, "") 
   <code>
-        <code>
-              .replace(/[,]+/g, "") 
-              <code>
+   
+              
+           
