@@ -12,5 +12,8 @@ Testes realizados:
 
 <code>
       .replace(/[.]+/g, "")  
-      .replace(/[,]+/g, "") 
+      
   <code>
+        <code>
+              .replace(/[,]+/g, "") 
+              <code>
