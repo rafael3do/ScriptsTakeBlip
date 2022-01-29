@@ -10,7 +10,7 @@ Testes realizados:
 
 No teste acima é possivel ver que o ponto e a virgula ainda aparecem e para remove poder adicionar as linhas abaixo:
 
-<script>
+<code>
         .replace(/[.]+/g, "")  
       .replace(/[,]+/g, "") 
-  </script>
+  <code>
