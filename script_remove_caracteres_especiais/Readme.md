@@ -1,7 +1,7 @@
-Caso de uso: Remover os caracteres especiais para envio para uma api ou facilitar o entendimento do bot.
+<br>Caso de uso: Remover os caracteres especiais para envio para uma api ou facilitar o entendimento do bot.<br>
 
 
-1°Passo: Apos o bloco de entrada criar um bloco para receber o input do usuario e apos isso vamos amazenar essa informação em uma variavel:
+<br>1°Passo: Apos o bloco de entrada criar um bloco para receber o input do usuario e apos isso vamos amazenar essa informação em uma variavel:<br>
 
 
 Testes realizados:
@@ -13,4 +13,4 @@ No teste acima é possivel ver que o ponto e a virgula ainda aparecem e para rem
 <script>
         .replace(/[.]+/g, "")  
       .replace(/[,]+/g, "") 
-  <script>
+  </script>
