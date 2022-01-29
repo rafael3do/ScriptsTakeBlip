@@ -12,4 +12,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 5° Script: Carrinho de compras simples: https://github.com/rafael3do/ScriptsTakeBlip/tree/main/script_carrinho_de_compras
 
+6° Script: Remoção de acentuação e caracteres especiais: https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_remove_caracteres_especiais
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
