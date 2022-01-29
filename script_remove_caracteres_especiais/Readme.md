@@ -8,9 +8,9 @@ Testes realizados:
 
 ![image](https://user-images.githubusercontent.com/18338341/151677117-eec71181-793a-442e-a470-152bc18b721b.png)
 
-No teste acima é possivel ver que o ponto e a virgula ainda aparecem e para remove poder adicionar as linhas abaixo:
+<br>No teste acima é possivel ver que o ponto e a virgula ainda aparecem e para remove poder adicionar as linhas abaixo:<br>
 
 <code>
-        .replace(/[.]+/g, "")  
+      .replace(/[.]+/g, "")  
       .replace(/[,]+/g, "") 
   <code>
