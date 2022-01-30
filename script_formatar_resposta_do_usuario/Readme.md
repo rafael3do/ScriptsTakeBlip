@@ -1,4 +1,4 @@
-<br>Caso de uso: Formatar as entradas do usuario para por enviar para algum sistema/crm/api de forma clara como rd station e hubspot.<br>
+<br>**Caso de uso**: Formatar as entradas do usuario para por enviar para algum sistema/crm/api de forma clara como rd station e hubspot.<br>
 
 <br>1° Passo : No bloco onde tem a escolha do usuario coloque na ação de saida a ação de executar script:?<br>
 ![image](https://user-images.githubusercontent.com/18338341/151717027-8627d85c-494d-4e17-b4f1-bfa53882f54a.png)
