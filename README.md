@@ -14,4 +14,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 6° Script: Remoção de acentuação e caracteres especiais: https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_remove_caracteres_especiais
 
+7° Script: Formatar entrada do contato durante menu de escolha : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_formatar_resposta_do_usuario
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
