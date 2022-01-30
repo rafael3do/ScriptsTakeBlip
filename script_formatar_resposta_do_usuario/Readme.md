@@ -1,1 +1,12 @@
-Caso de uso: Formatar as entradas do usuario para por enviar para algum sistema/crm/api de forma clara como rd station e hubspot.
+<br>Caso de uso: Formatar as entradas do usuario para por enviar para algum sistema/crm/api de forma clara como rd station e hubspot.<br>
+
+<br>1° Passo : No bloco onde tem a escolha do usuario coloque na ação de saida a ação de executar script:?<br>
+
+<br>2° Passo : No proximo bloco na ação de entrada pode se usar isso para enviar ao rd statio, husbot, crm ou api.<br>
+
+Teste realizado:
+![image](https://user-images.githubusercontent.com/18338341/151716959-8e986546-9c34-4087-a4ff-e676eca7e457.png)
+
+Valor das variaveis:
+![image](https://user-images.githubusercontent.com/18338341/151716987-decdc50c-bde4-45df-bc61-bbb0d162eb66.png)
+
