@@ -1,0 +1,1 @@
+Caso de uso: Formatar as entradas do usuario para por enviar para algum sistema/crm/api de forma clara como rd station e hubspot.
