@@ -4,7 +4,10 @@ Olá, hoje vou mostar um pouco de como criar script para usar em bots feitos na 
 <br>1.1-Abra o google chorme pressione F12 e irá abrir a tela de desenvolvimento.<br>
 ![image](https://user-images.githubusercontent.com/18338341/152656012-a2ba15d3-8d91-449a-9f92-2a75bb2beca3.png)
 Clique em "Console"
+
 Apos isso coloque o codigo:
 <code> function run(entrada){
     let resultado = entrada *2;                                                 return resultado;
 } <code>
+
+![image](https://user-images.githubusercontent.com/18338341/152656116-dfe3b5fb-fede-4362-85dd-18feb0ed9ea8.png)
