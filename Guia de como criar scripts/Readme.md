@@ -19,4 +19,4 @@ Apos isso coloque o codigo:
 
  Com scripts podemos fazer calculos matematicos, trata objetos em json e entrada de texto ou de valores booleanos, nesse acima estamos so fazendo uma calculo simples para que possamos entender o que é a entrada e o que é a saida.
      
-** Agora iremos mostrar isso na plataforma da Take Blip **
+** Agora iremos mostrar isso na plataforma da Take Blip 
