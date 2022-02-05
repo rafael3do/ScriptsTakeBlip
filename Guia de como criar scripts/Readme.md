@@ -9,5 +9,5 @@ Apos isso coloque o codigo:
 <code> function run(entrada){
     let resultado = entrada *2;                                                 return resultado;
 } <code>
-
+<p> <p>
 ![image](https://user-images.githubusercontent.com/18338341/152656116-dfe3b5fb-fede-4362-85dd-18feb0ed9ea8.png)
