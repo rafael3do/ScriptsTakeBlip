@@ -1,0 +1,1 @@
+Olá, hoje vou mostar um pouco de como criar script para usar em bots feitos na plataforma Take Blip e também pode ser usado em sites e aplicações.
