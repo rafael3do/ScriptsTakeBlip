@@ -20,16 +20,17 @@ Apos isso coloque o codigo:
  Com scripts podemos fazer calculos matematicos, trata objetos em json e entrada de texto ou de valores booleanos, nesse acima estamos so fazendo uma calculo simples para que possamos entender o que é a entrada e o que é a saida.
      
 # Agora iremos mostrar isso na plataforma da Take Blip 
-<p>
+
    <br> 1° Em um bloco vamo solicitar que o usuario digite o numero e salvares a sua resposta em uma variavel:
-    
- ![image](https://user-images.githubusercontent.com/18338341/152661362-6cc0e9b8-8d5a-4c3f-91bb-d901f4babe59.png)
+     
+![image](https://user-images.githubusercontent.com/18338341/152661362-6cc0e9b8-8d5a-4c3f-91bb-d901f4babe59.png)
+
 ![image](https://user-images.githubusercontent.com/18338341/152661368-b4cbd678-5402-4ce0-91a0-68ba6e55007f.png)
 
-2° Passo no bloco na ação de saida colocaremos o executar script passando a variavel de entrada e salvaremos a saida.
+  <br>2° Passo no bloco na ação de saida colocaremos o executar script passando a variavel de entrada e salvaremos a saida.
     ![image](https://user-images.githubusercontent.com/18338341/152661388-6f91a776-b37c-42b5-91cd-b282e7bd0dbe.png)
 
-3° Passo iremos criar no proximo bloco o retorno do script.
+  <br>3° Passo iremos criar no proximo bloco o retorno do script.
     
     ![image](https://user-images.githubusercontent.com/18338341/152661410-88f6b8a1-d794-48ad-a5e6-b887f2e97ef0.png)
 
