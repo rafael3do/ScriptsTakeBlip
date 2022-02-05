@@ -15,8 +15,9 @@ Apos isso coloque o codigo:
 <br>Apos isso vamos executar o comando<br>
  <code> run(4) 
 
-<br>Teremos o retorno de 8, pois o codigo pega o valor de entrada e multiplica por 2<br>
+<br>Teremos o retorno de 8, pois o codigo pega o valor de entrada e multiplica por 2
 
  Com scripts podemos fazer calculos matematicos, trata objetos em json e entrada de texto ou de valores booleanos, nesse acima estamos so fazendo uma calculo simples para que possamos entender o que é a entrada e o que é a saida.
      
 # Agora iremos mostrar isso na plataforma da Take Blip 
+<p>
