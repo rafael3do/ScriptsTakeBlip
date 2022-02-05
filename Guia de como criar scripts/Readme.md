@@ -8,12 +8,12 @@ Olá, hoje vou mostar um pouco de como criar script para usar em bots feitos na 
 Apos isso coloque o codigo:
 <code> function run(entrada){
     let resultado = entrada *2;                                                 return resultado;
-} <code>
+} 
 
 ![image](https://user-images.githubusercontent.com/18338341/152656116-dfe3b5fb-fede-4362-85dd-18feb0ed9ea8.png)
     
 <br>Apos isso vamos executar o comando<br>
- <code> run(4) <code>
+ <code> run(4) 
 
 <br>Teremos o retorno de 8, pois o codigo pega o valor de entrada e multiplica por 2<br>
 
