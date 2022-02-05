@@ -21,9 +21,9 @@ Apos isso coloque o codigo:
      
 # Agora iremos mostrar isso na plataforma da Take Blip 
 <p>
-    1° Em um bloco vamo solicitar que o usuario digite o numero e salvares a sua resposta em uma variavel:
+   <br> 1° Em um bloco vamo solicitar que o usuario digite o numero e salvares a sua resposta em uma variavel:
     
-    ![image](https://user-images.githubusercontent.com/18338341/152661362-6cc0e9b8-8d5a-4c3f-91bb-d901f4babe59.png)
+ ![image](https://user-images.githubusercontent.com/18338341/152661362-6cc0e9b8-8d5a-4c3f-91bb-d901f4babe59.png)
 ![image](https://user-images.githubusercontent.com/18338341/152661368-b4cbd678-5402-4ce0-91a0-68ba6e55007f.png)
 
 2° Passo no bloco na ação de saida colocaremos o executar script passando a variavel de entrada e salvaremos a saida.
