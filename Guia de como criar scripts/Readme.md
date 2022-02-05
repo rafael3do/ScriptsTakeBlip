@@ -21,3 +21,6 @@ Apos isso coloque o codigo:
      
 # Agora iremos mostrar isso na plataforma da Take Blip 
 <p>
+1° Passo em uma bloco na ação de saida colocaremos o executar script.
+    
+2° Passo iremos criar no proximo bloco o retorno do script.
