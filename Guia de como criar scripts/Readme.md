@@ -38,5 +38,6 @@
  
 ![image](https://user-images.githubusercontent.com/18338341/152661431-ddf78b06-aa9b-4e16-9aab-705aaf756b64.png)
 
+Ação de executar script Take Blip: https://help.blip.ai/hc/pt-br/articles/360057496994-A%C3%A7%C3%A3o-Executar-script
 >Observação: Para entender a criação de script e a logica de programação acesse: https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 https://medium.com/trainingcenter/introdu%C3%A7%C3%A3o-a-l%C3%B3gica-de-programa%C3%A7%C3%A3o-com-javascript-77d98de468c3
