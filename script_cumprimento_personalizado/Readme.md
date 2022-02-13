@@ -7,6 +7,5 @@ Caso de uso: Enviar uma menssagem customizada quando o cliente chamar o bot e el
 <br>2° Passo: No conteudo colocar o retorno do script: <br>
 ![image](https://user-images.githubusercontent.com/18338341/150695077-ee03755c-579e-47d1-b62d-d1512e1d0668.png)
 
-Teste no fluxo: 
-
-![image](https://user-images.githubusercontent.com/18338341/150695104-a15e2f47-578b-402a-b147-ad416b0399b5.png)
+Teste do fluxo:
+<br>![image](https://user-images.githubusercontent.com/18338341/150695104-a15e2f47-578b-402a-b147-ad416b0399b5.png)
