@@ -5,9 +5,8 @@
 ![image](https://user-images.githubusercontent.com/18338341/151677251-2f94d13a-b76a-40b3-b24f-027e9f9f63ce.png)
 
 
-Testes realizados:
-
-![image](https://user-images.githubusercontent.com/18338341/151677117-eec71181-793a-442e-a470-152bc18b721b.png)
+Teste do fluxo:
+<br>![image](https://user-images.githubusercontent.com/18338341/151677117-eec71181-793a-442e-a470-152bc18b721b.png)
 
 <br>No teste acima é possivel ver que o ponto e a virgula ainda aparecem e para remove poder adicionar as linhas abaixo:<br>
 
