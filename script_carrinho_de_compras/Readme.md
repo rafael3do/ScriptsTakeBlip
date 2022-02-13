@@ -9,6 +9,5 @@ Caso de uso: Sistema simples onde pode ser montaddo um bot onde o cliente escolh
 
 
 
-<br>Teste realizado:<br>
-
-![image](https://user-images.githubusercontent.com/18338341/150879022-cdc948e2-6bd6-4215-a3f0-01467e1c30b8.png)
+Teste do fluxo:
+<br>![image](https://user-images.githubusercontent.com/18338341/150879022-cdc948e2-6bd6-4215-a3f0-01467e1c30b8.png)
