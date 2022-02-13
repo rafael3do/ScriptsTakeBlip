@@ -17,4 +17,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 7° Script: Formatar entrada do contato durante menu de escolha : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_formatar_resposta_do_usuario
 
+8° Script: Texto dinamico na navegação do bot e resposta : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_resposta_personalizada_e_dinamica
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
