@@ -6,8 +6,8 @@
 
 <br>2° Passo : No proximo bloco na ação de entrada pode se usar isso para enviar ao rd statio, husbot, crm ou api.<br>
 
-<br>Teste realizado:<br>
-![image](https://user-images.githubusercontent.com/18338341/151716959-8e986546-9c34-4087-a4ff-e676eca7e457.png)
+Teste do fluxo:
+<br>![image](https://user-images.githubusercontent.com/18338341/151716959-8e986546-9c34-4087-a4ff-e676eca7e457.png)
 
 <br>Valor das variaveis:<br>
 ![image](https://user-images.githubusercontent.com/18338341/151716987-decdc50c-bde4-45df-bc61-bbb0d162eb66.png)
