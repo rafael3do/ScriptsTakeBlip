@@ -25,6 +25,18 @@ E apos ele coloque o definir variavel
 <br>![image](https://user-images.githubusercontent.com/18338341/154805269-da84ed57-4d72-47f4-b6c3-a7f2cea8e1cc.png)</br>
 
 <br>![image](https://user-images.githubusercontent.com/18338341/154805388-7bc2d181-fbce-4a15-be86-6d32fe8eccd6.png)</br>
+Agora na ação de saida vamos colocar o script que valida se o usuario respondeu a pergunta corretamente.
+![image](https://user-images.githubusercontent.com/18338341/154805623-7c8c8145-1efa-40f7-a1c6-a7e27edca84c.png)
+Nas ações de saida desse bloco vamos colocar assim :
+
+![image](https://user-images.githubusercontent.com/18338341/154805649-f9913726-4e65-4604-b7de-4d304589a5f6.png)
+
+<br>A aba de conteudo do bloco:</br>
+![image](https://user-images.githubusercontent.com/18338341/154805667-18b0bb95-6499-470b-8d2f-24ddc93362ef.png)
+
+
+<br>E os blocos criados nesse processo : </br>
+![image](https://user-images.githubusercontent.com/18338341/154805684-8a233b6c-f555-4691-aac0-fe13b4a3bf4f.png)
 
 
 
