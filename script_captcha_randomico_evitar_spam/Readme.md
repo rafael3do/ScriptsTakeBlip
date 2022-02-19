@@ -7,6 +7,7 @@
 
 </br>
 <b>2°-Passo:</b>No proximo bloco de navegação coloque o script que valida spam na ação de saida para verificar se o input do contato é igual ao anterior.
+
 <br>![image](https://user-images.githubusercontent.com/18338341/154804761-2d698ff8-e92e-4376-8b29-309adc66a66c.png)</br>
 E apos ele coloque o definir variavel
 <br>![image](https://user-images.githubusercontent.com/18338341/154804780-ca0b791b-7521-4823-89bb-9ad05c752631.png)</br>
