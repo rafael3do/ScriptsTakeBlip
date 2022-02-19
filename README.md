@@ -19,4 +19,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 8° Script: Texto dinamico na navegação do bot e resposta : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_resposta_personalizada_e_dinamica
 
+9° Script: Gerar captcha aleatorio quando identificar que algum usuario está mandando spam : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_captcha_randomico_evitar_spam
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
