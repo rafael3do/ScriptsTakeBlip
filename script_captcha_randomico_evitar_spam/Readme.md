@@ -8,8 +8,12 @@
 </br>
 <b>2°-Passo:</b>No proximo bloco de navegação coloque o script que valida spam na ação de saida para verificar se o input do contato é igual ao anterior.
 
+![image](https://user-images.githubusercontent.com/18338341/154804934-33731b79-916a-4b0e-a4bd-6b29518babf7.png)
+
 <br>![image](https://user-images.githubusercontent.com/18338341/154804761-2d698ff8-e92e-4376-8b29-309adc66a66c.png)</br>
+
 E apos ele coloque o definir variavel
+
 <br>![image](https://user-images.githubusercontent.com/18338341/154804780-ca0b791b-7521-4823-89bb-9ad05c752631.png)</br>
 
 <b>3°-Passo:</br> Crie um bloco que valide se o spam é igual a 1, nesse nbloco não precisa de conteudo nem de aguadar o input do contato é só criar as condições de saida.
