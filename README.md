@@ -21,4 +21,6 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 9° Script: Gerar captcha aleatorio quando identificar que algum usuario está mandando spam : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_captcha_randomico_evitar_spam
 
+10° Script: Verificar feriado nacional com api : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_feriados_nacionais_com_api
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
