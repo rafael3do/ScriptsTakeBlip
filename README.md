@@ -1,4 +1,4 @@
-**![image](https://user-images.githubusercontent.com/18338341/150648450-f6604184-079c-4e66-bf9b-ed6ca7403eb0.png)**
+ **![image](https://user-images.githubusercontent.com/18338341/150648450-f6604184-079c-4e66-bf9b-ed6ca7403eb0.png)**
 
 Link da plataforma Take Blip : https://portal.blip.ai/ 
 >Guia de como criar scripts: <a href="https://github.com/rafael3do/ScriptsTakeBlip/tree/master/Guia%20de%20como%20criar%20scripts">Clique aqui!</a>
