@@ -24,4 +24,4 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 <b>10°</b> Script: Verificar feriado nacional com api : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_feriados_nacionais_com_api
 
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
-# *Os codigos aqui apresenados são exemplos e podem ser melhorados, otimizados e alterados.*
+#### *Os codigos aqui apresenados são exemplos e podem ser melhorados, otimizados e alterados.*
