@@ -1,4 +1,4 @@
-<b>Casos de uso</b>: 
+<b>Casos de uso</b>: Identificar de qual router o contato veio e com isso podemos direcionalo para blocos especificos do fluxo ou criar relatorios com essa informação para veriricarmos a quantidade de usuarios estão chegando por determinando router.
 
 <b>1°</b> - Passo:
 No bloco de inicio adicione o script que está na pasta aqui do github, com variavel de entrada tunnel.owner conforme imagem e saida pode ser bot.
