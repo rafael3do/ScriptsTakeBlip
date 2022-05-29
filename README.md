@@ -27,3 +27,5 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
 #### **Os codigos aqui apresenados são exemplos e podem ser melhorados, otimizados e alterados.*
+
+<b>Link forum Take Blip : https://forum.blip.ai/</b>
