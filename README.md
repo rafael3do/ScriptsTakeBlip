@@ -25,6 +25,8 @@ Link da plataforma Take Blip : https://portal.blip.ai/
 
 <b>11°-</b> Script: Identifica de qual bot o contato veio : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_identifica_de_qual_router_veio
 
+<b>12°-</br> Script : Mascarar o cpf/cnpj do contato durante a navegação no bot : https://github.com/rafael3do/ScriptsTakeBlip/tree/master/script_mascara_cpf_cnpj
+
 ## **Esse github/repositorio não tem nenhum vínculo com a Take Blip e todo conteúdo disponibilizado foi feito de forma livre e para uso de todos.**
 #### **Os codigos aqui apresenados são exemplos e podem ser melhorados, otimizados e alterados.*
 
