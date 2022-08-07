@@ -20,7 +20,9 @@
     return "Error";
 }
 }</code></br>
+
 <br>![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)</br>
+
 Não esqueça de colcoar a variavel de entrada 'cpf'
 e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no print acima
 <br>No bloco que traz o retorno imprimimos da forma mostrada abaixo, mas pode ser feito na condição de saida e mandar para um bloco de cpf valido ou invalido dependendo do cenario</br>
