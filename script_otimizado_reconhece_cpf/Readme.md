@@ -1,10 +1,10 @@
 <b>Caso de uso</b> : Reconhecer o cpf do usuario que utiliza o bot sem necessidade de fixar uma formação como orientar o contato a mandar sem ponto(11122233344) e traço ou pedir que mande com ponto e traço(111.222.333-44) ou que mande com espaço. Esse script vai entender qualquer uma dessas entras e não vai utilizar regex o outro ponto é que ele pode ser adequado para funcionar com cpf e cnpj sem precisar de um script para cada caso.
 
 <b>1°- Passo</b> : No bloco onde você coloca solicitação do cpf salve a entra do usuario em uma variavel. 
-![image](https://user-images.githubusercontent.com/18338341/183295098-cfe47737-1d2b-4c06-871c-ebf97988df1e.png)
+<br>![image](https://user-images.githubusercontent.com/18338341/183295098-cfe47737-1d2b-4c06-871c-ebf97988df1e.png)</br>
 
 <b>2°- Passo</b> : No bloco de validação do cpf na ação de entrada coloque o script: 
-![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)
+<br>![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)</br>
 Não esqueça de colcoar a variavel de entrada 'cpf'
 e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no print acima
 <br><code> function run(cpf){ 
