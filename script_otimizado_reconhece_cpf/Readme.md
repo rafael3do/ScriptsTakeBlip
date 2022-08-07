@@ -4,9 +4,6 @@
 <br>![image](https://user-images.githubusercontent.com/18338341/183295098-cfe47737-1d2b-4c06-871c-ebf97988df1e.png)</br>
 
 <b>2°- Passo</b> : No bloco de validação do cpf na ação de entrada coloque o script: 
-<br>![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)</br>
-Não esqueça de colcoar a variavel de entrada 'cpf'
-e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no print acima
 <br><code> function run(cpf){ 
     try{   
     if (typeof cpf !== 'integer'){
@@ -23,6 +20,12 @@ e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no pr
     return "Error";
 }
 }</code></br>
+<br>![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)</br>
+Não esqueça de colcoar a variavel de entrada 'cpf'
+e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no print acima
+<br>No bloco que traz o retorno imprimimos da forma mostrada abaixo, mas pode ser feito na condição de saida e mandar para um bloco de cpf valido ou invalido dependendo do cenario</br>
+<br>![image](https://user-images.githubusercontent.com/18338341/183295382-2c4f56d6-1f01-496e-85af-4ee4509e1b03.png)
+</br>
 
 <b>Teste do fluxo:</b>
 <br>![image](https://user-images.githubusercontent.com/18338341/183294367-4bfaa013-e973-43b1-84c6-989b4981909d.png)</br>
