@@ -1,10 +1,28 @@
 <b>Caso de uso</b> : Reconhecer o cpf do usuario que utiliza o bot sem necessidade de fixar uma formação como orientar o contato a mandar sem ponto(11122233344) e traço ou pedir que mande com ponto e traço(111.222.333-44) ou que mande com espaço. Esse script vai entender qualquer uma dessas entras e não vai utilizar regex o outro ponto é que ele pode ser adequado para funcionar com cpf e cnpj sem precisar de um script para cada caso.
 
 <b>1°- Passo</b> : No bloco onde você coloca solicitação do cpf salve a entra do usuario em uma variavel. 
+![image](https://user-images.githubusercontent.com/18338341/183295098-cfe47737-1d2b-4c06-871c-ebf97988df1e.png)
 
 <b>2°- Passo</b> : No bloco de validação do cpf na ação de entrada coloque o script: 
-
-<br><code> </code></br>
+![image](https://user-images.githubusercontent.com/18338341/183295125-91dfe2f5-1d97-40d7-89ff-b60f5a1b84f4.png)
+Não esqueça de colcoar a variavel de entrada 'cpf'
+e salvar o retorno em uma variavel como o exemplo 'iscpfvalid' que aparece no print acima
+<br><code> function run(cpf){ 
+    try{   
+    if (typeof cpf !== 'integer'){
+    cpf=cpf.toString();    
+    }
+    if (typeof cpf !== 'string') return false;
+    cpf = cpf.replace(/[^\d]+/g, '');
+    if (cpf.length !== 11 || !!cpf.match(/(\d)\1{10}/)) return false;
+    cpf = cpf.split('').map(el => +el);
+    const rest = (count) => (cpf.slice(0, count-12)
+        .reduce( (soma, el, index) => (soma + el * (count-index)), 0 )*10) % 11 % 10;
+    return rest(10) === cpf[9] && rest(11) === cpf[10];
+}catch{
+    return "Error";
+}
+}</code></br>
 
 <b>Teste do fluxo:</b>
 <br>![image](https://user-images.githubusercontent.com/18338341/183294367-4bfaa013-e973-43b1-84c6-989b4981909d.png)</br>
